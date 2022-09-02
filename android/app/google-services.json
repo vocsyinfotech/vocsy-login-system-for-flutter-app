@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "73252401192",
+    "project_id": "loginsystems-baa9d",
+    "storage_bucket": "loginsystems-baa9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73252401192:android:2ac3ebfc435991eba0c51d",
+        "android_client_info": {
+          "package_name": "com.firelogin.vocsy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73252401192-9j4630g856m60voadsmv6ukgu01ts1uc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firelogin.vocsy",
+            "certificate_hash": "73de186ba2133acb48d2dbe3d64d6ed28e8090cd"
+          }
+        },
+        {
+          "client_id": "73252401192-c3tbljukrro7lmh5lqvcqt3nfk3kv47m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6OPhTcx_X2KRDoa9S1QUK1twxccEZO1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73252401192-c3tbljukrro7lmh5lqvcqt3nfk3kv47m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
